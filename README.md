@@ -1,12 +1,22 @@
-# React + Vite
+## GiftWise – Perfect Tohfa, Har Baar.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Kabhi aapke saath aisa hua hai ki kisi close friend ya cousin ka birthday ya anniversary yaad toh thi… lekin tohfa lena reh gaya? Ya phir last moment pe yaad aaya aur kuch bhi random le liya, bina soch samajh ke?
 
-Currently, two official plugins are available:
+India mein, chhoti-badi har khushi ka celebration hota hai — birthdays, shaadis, promotions, festivals, rakhi, valentine’s day… par gifting ka pressure bhi utna hi real hai. Par gift lena sirf formality nahi hoti — woh ek emotional connection hota hai. Aur wahi banata hai GiftWise ko ek smart gifting companion.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+--> 🎁 GiftWise kya karta hai?
+	•	Occasion, Personality aur Mood ke basis pe suggest karta hai curated gift ideas
+	•	Chahe woh introvert bhai ho, ya adventurous best friend – sabke liye perfect tohfa
+	•	Calendar Reminder bhi hai – taaki aap koi event bhool na jaayein
+	•	Explore Page with filters and categories for personalized browsing
+	•	Search Functionality for quick gifting ideas
+	•	Login/Signup with Google, Facebook, Apple – easy access
+	•	Gift Detail Pages jahan aap reason padh sakte ho ki kyun yeh gift best hai
+	•	Aur sabse acchi baat – aap gift save, bookmark aur share bhi kar sakte ho!
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+-->  ❤️ Why it stands out:
+
+In India, gifting is an emotional ritual, par planning ke bina last moment ka jugaad ban jaata hai. GiftWise yeh problem solve karta hai with a personalized, mindful gifting experience.
+
+Toh agla birthday ya function aane se pehle, GiftWise chalu karo… aur tohfa ready rakho!
